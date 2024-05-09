@@ -1,16 +1,7 @@
-# homework
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-05-09 075206](https://github.com/Aabdulloh2005/car-shop/assets/153055444/4efc5bd1-cc5c-41e5-9a86-60e2ab12d245)
+![Screenshot 2024-05-09 075220](https://github.com/Aabdulloh2005/car-shop/assets/153055444/918ed84e-7988-47be-aef5-0a3c02100ebf)
+![Screenshot (18)](https://github.com/Aabdulloh2005/car-shop/assets/153055444/9605b151-9649-46c9-88f5-938be9e59db9)
+![Screenshot (19)](https://github.com/Aabdulloh2005/car-shop/assets/153055444/68a04f0e-795a-4df5-bf09-8b76e1e9580d)
+![Screenshot (20)](https://github.com/Aabdulloh2005/car-shop/assets/153055444/c1fa0ede-f63c-48d0-9c8d-2e810918fba6)
+![Screenshot (21)](https://github.com/Aabdulloh2005/car-shop/assets/153055444/4f748de9-d0f3-4f26-86d8-b52aed98c8d9)
+![Screenshot (22)](https://github.com/Aabdulloh2005/car-shop/assets/153055444/e8f9ff1c-e861-4263-923c-5a5ee20a4b8f)

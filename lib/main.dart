@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:homework/screens/desktop.dart';
 import 'package:homework/screens/main_page.dart';
 
 void main(List<String> args) {
@@ -10,9 +11,9 @@ class CarShop extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
+    return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: CarRent(),
+      home: MediaQuery.of(context).size.width < 600 ? CarRent() : Desktop(),
     );
   }
 }
